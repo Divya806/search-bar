@@ -1,0 +1,25 @@
+.SearchBackground {
+    padding: 30px;
+    background:cyan;
+    color:brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.outerContainer {
+    padding: 30px;
+}
+.outerContainer a {
+    padding: 0px 20px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background:cyan;
+    float:left;
+}
+
+.outerContainer input[type="text"] {
+    float: right;
+    padding:0px  30px;
+    border-radius: 20px;
+}
