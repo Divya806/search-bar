@@ -8,18 +8,18 @@
 
 .outerContainer {
     padding: 30px;
+    background:cyan;
 }
 .outerContainer a {
     padding: 0px 20px;
     text-decoration: none;
     color: black;
     text-align: center;
-    background:cyan;
     float:left;
 }
 
 .outerContainer input[type="text"] {
     float: right;
-    padding:0px  30px;
+    padding: 6px;
     border-radius: 20px;
 }
